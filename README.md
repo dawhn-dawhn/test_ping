@@ -1,3 +1,3 @@
 # test_ping
 
-## Test pull
+## Test pull fastforward
